@@ -20,11 +20,11 @@ Goal of project is to learn how to create simple spring boot project.
 * [Bootstrap](https://getbootstrap.com/)
 
 ## Features
-* Count square using WebAssemby module.
+* Show hello message using JSP templates.
 
 ## Screenshots
-![Example screenshot](./doc/screen1.png)
-![WasmFiddle](./doc/screen2.png)
+![Screen1](./doc/screen1.png)
+![Screen2](./doc/screen2.png)
 
 ## Setup
 How to run this project.
@@ -39,8 +39,8 @@ How to run this project.
 
 ```mvn spring-boot:run```
 
-6. Visit: http://localhost:8080/
-7. Visit: http://localhost:8080/hello?name=Bob
+5. Visit: http://localhost:8080/
+6. Visit: http://localhost:8080/hello?name=Bob
 
 ## Status
 Project is finished.
